@@ -5,4 +5,11 @@ Obliczanie dnia, do którego starczy lekarstw,
 Przypominanie o dawce,
 Przypomnienie o konieczności odnowienia zapasów,
 Możliwość dodawania zakupionych opakowań leków do zapasów,
-Możliwość ustalenia dziennej dawki, godzin przyjmowania leków i ilości dawek w opakowaniu.
+Możliwość ustalenia dziennej dawki, godzin przyjmowania leków i ilości dawek w opakowaniu
+Szybka konfiguracja.
+
+Podział pracy:
+Bartosz:
+Przypominanie o dawce, konieczności dokonania zakupów, mechanizm szybkiej konfiguracji
+Mateusz:
+Obliczanie daty, mechanizmy dodawania leków, możliwośc ustalania dawek i wielkości opakowań
