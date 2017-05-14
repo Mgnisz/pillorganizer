@@ -1,0 +1,8 @@
+# pillorganizer
+Aplikacja na platformę Android, która pozwoli na zarządzaniem regularnie przyjmowanymi lekami.
+Planowane działanie obejmuje:
+Obliczanie dnia, do którego starczy lekarstw,
+Przypominanie o dawce,
+Przypomnienie o konieczności odnowienia zapasów,
+Możliwość dodawania zakupionych opakowań leków do zapasów,
+Możliwość ustalenia dziennej dawki, godzin przyjmowania leków i ilości dawek w opakowaniu.
